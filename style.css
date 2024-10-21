@@ -2,13 +2,13 @@
 body
 	#name { text-align: center;}
 	h1 {
-		color: #8617c2;
+		color: #b366ff;
 		font-family: "Ms Madi", cursive;
   		font-weight: 550;
   		font-style: normal;
-		text-shadow: 2px 2px 4px #c2a7d1 ;
+		text-shadow: 2px 2px 4px #d9b3ff ;
 		text-decoration: underline;
   		text-decoration-style: wavy;
-  		text-decoration-color: #6d0da1;
+  		text-decoration-color: #9933ff;
   		text-underline-offset: 5px;
   		}
