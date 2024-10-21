@@ -1,0 +1,14 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+body
+	#name { text-align: center;}
+	h1 {
+		color: #8617c2;
+		font-family: "Ms Madi", cursive;
+  		font-weight: 550;
+  		font-style: normal;
+		text-shadow: 2px 2px 4px #c2a7d1 ;
+		text-decoration: underline;
+  		text-decoration-style: wavy;
+  		text-decoration-color: #6d0da1;
+  		text-underline-offset: 5px;
+  		}
